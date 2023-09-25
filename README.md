@@ -4,7 +4,7 @@ This is a 🔥 [basic project](https://alevroses.github.io/testimony-react/) mad
 
 ![responsive](https://i.postimg.cc/sxcQzRr6/testimony-responsive.jpg)
 
-## The structure is as follows
+## Project Structure
 
 ```mermaid
 graph LR
