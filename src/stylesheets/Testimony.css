@@ -1,26 +1,40 @@
 :root {
-  --first-color: #090b10;
-  --second-color: #0f111a;
-  --third-color: #4f46e5;
+  --first-color: #1b1b32;
+  --second-color: #0a0a23;
+  --third-color: #f5f6f7;
   --fourth-color: #cbd5e1;
   --fitfh-color: #55667c;
 }
 
-.main__image-testimony {
+.section__testimony {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.img {
   width: 100%;
 }
 
-.main__description-testimony {
+.description {
   width: 100%;
-  padding: 1.5rem;
-  display: grid;
-	gap: 1rem;
-	justify-items: center;
-	color: var(--fourth-color);
+  padding: 25px;
+  line-height: 25.7px;
+  text-align: center;
+  color: var(--third-color);
+  background-color: var(--second-color);
+  font-size: 21.6px;
 }
 
+.name {
+  padding: 10px 0 15px;
+}
 
+.job-title {
+  padding: 0 0 30px;
+}
 
 .comment {
-	text-align: justify;
+  text-align: justify;
+  font-size: 19.8px;
 }
