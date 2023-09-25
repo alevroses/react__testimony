@@ -2,8 +2,7 @@
 
 This is a 🔥 [basic project](https://alevroses.github.io/testimony-react/) made with React.
 
-![desktop](https://i.postimg.cc/rmkTM0gj/testimony-desktop.png)
-![mobile](https://i.postimg.cc/7Y6kHy1F/testimony-mobile.png)
+![responsive](https://i.postimg.cc/sxcQzRr6/testimony-responsive.jpg)
 
 ## Getting Started with Create React App
 
