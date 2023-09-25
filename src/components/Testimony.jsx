@@ -5,7 +5,8 @@ import "../stylesheets/Testimony.css";
 function Testimony(props) {
   return (
     <div className="section__testimony">
-      <img className="img"
+      <img
+        className="img"
         src={require(`../images/testimony-${props.image}.png`)}
         alt={`Testimony ${props.name}`}
       />
